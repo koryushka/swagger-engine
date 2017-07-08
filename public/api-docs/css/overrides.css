@@ -1,0 +1,23 @@
+#header {
+    position: relative;
+    overflow: hidden;
+}
+
+#login_form {
+    float: right;
+    line-height: 22px;
+    text-align: right;
+}
+
+#login_form label {
+    width: 100px;
+    display: inline-block;
+}
+
+#login_form input, #login_form select {
+    width: 150px;
+}
+
+#login_form button {
+    font-size: 14px;
+}
